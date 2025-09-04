@@ -1,0 +1,11 @@
+com\mycompany\menu\Manager.class
+com\mycompany\menu\MenuList.class
+com\mycompany\menu\Category.class
+com\mycompany\menu\Waitstaff.class
+com\mycompany\menu\User.class
+com\mycompany\menu\Orders.class
+com\mycompany\menu\Customer.class
+com\mycompany\menu\Item.class
+.netbeans_automatic_build
+com\mycompany\menu\Menu.class
+OrderProcessor.class
