@@ -9,4 +9,5 @@ This project was developed as part of CS220: Fundamentals of Software Engineerin
 - Managers: Add, edit, and manage menu items with ease.
 
 🎯 Project Outcome
+
 Our team achieved a score of 13/15 for both the idea and implementation of this project.
